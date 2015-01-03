@@ -13,7 +13,7 @@ See [Map::Metro](https://metacpan.org/pod/Map::Metro) for usage information.
 
 # Status
 
-...
+As of 2015-jan-03 it contains all twelve regular tram lines, see [wikipedia](https://en.wikipedia.org/wiki/Gothenburg_tram_network).
 
 # AUTHOR
 

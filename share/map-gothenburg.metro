@@ -157,18 +157,18 @@ Korsvägen
 Centralstationen % Drottningtorget
 
 --lines
-1|1|Line 1|color:#cccccc,width:20
-2|2|Line 2|color:#ffd938,width:20
-3|3|Line 3|color:#007cc5,width:20
-4|4|Line 4|color:#00a763,width:20
-5|5|Line 5|color:#ff403a,width:20
-6|6|Line 6|color:#ff9430,width:20
-7|7|Line 7|color:#a55311,width:20
-8|8|Line 8|color:#a024a1,width:20
-9|9|Line 9|color:#72d8f7,width:20
-10|10|Line 10|color:#c6e091,width:20
-11|11|Line 11|color:#2b2e34,width:20
-13|13|Line 13|color:#ffcc9b,width:20
+1|1|Line 1|color:#cccccc,width:8
+2|2|Line 2|color:#ffd938,width:8
+3|3|Line 3|color:#007cc5,width:8
+4|4|Line 4|color:#00a763,width:8
+5|5|Line 5|color:#ff403a,width:8
+6|6|Line 6|color:#ff9430,width:8
+7|7|Line 7|color:#a55311,width:8
+8|8|Line 8|color:#a024a1,width:8
+9|9|Line 9|color:#72d8f7,width:8
+10|10|Line 10|color:#c6e091,width:8
+11|11|Line 11|color:#2b2e34,width:8
+13|13|Line 13|color:#ffcc9b,width:8
 
 --transfers
 Kålltorp|Torp|weight:3
