@@ -38,7 +38,13 @@ See L<Map::Metro> for usage information.
 
 =head1 Status
 
-...
+As of 2015-jan-03 it contains all twelve regular tram lines, see L<wikipedia|https://en.wikipedia.org/wiki/Gothenburg_tram_network>.
+
+=begin HTML
+
+<p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Gothenburg/master/static/images/gothenburg.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Gothenburg/master/static/images/gothenburg.png" style="max-width: 600px" /></a></p>
+
+=end HTML
 
 =head1 AUTHOR
 

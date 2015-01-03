@@ -157,21 +157,21 @@ Korsvägen
 Centralstationen % Drottningtorget
 
 --lines
-1|1|Line 1
-2|2|Line 2
-3|3|Line 3
-4|4|Line 4
-5|5|Line 5
-6|6|Line 6
-7|7|Line 7
-8|8|Line 8
-9|9|Line 9
-10|10|Line 10
-11|11|Line 11
-13|13|Line 13
+1|1|Line 1|color:#cccccc,width:20
+2|2|Line 2|color:#ffd938,width:20
+3|3|Line 3|color:#007cc5,width:20
+4|4|Line 4|color:#00a763,width:20
+5|5|Line 5|color:#ff403a,width:20
+6|6|Line 6|color:#ff9430,width:20
+7|7|Line 7|color:#a55311,width:20
+8|8|Line 8|color:#a024a1,width:20
+9|9|Line 9|color:#72d8f7,width:20
+10|10|Line 10|color:#c6e091,width:20
+11|11|Line 11|color:#2b2e34,width:20
+13|13|Line 13|color:#ffcc9b,width:20
 
 --transfers
-Kålltorp|Torp:weight:3
+Kålltorp|Torp|weight:3
 
 --segments
 5,6|Varmfrontsgatan|Temperaturgatan
@@ -191,7 +191,7 @@ Kålltorp|Torp:weight:3
 6,13|Frihamnen|Nordstan
 6|Nordstan|Brunnsparken
 13|Nordstan|Centralstationen
-5,10|Frihamnen|Lilla Bommen|
+5,10|Frihamnen|Lilla Bommen
 5,10|Lilla Bommen|Brunnsparken
 
 4,8,9|Angered Centrum|Storås
@@ -292,7 +292,7 @@ Kålltorp|Torp:weight:3
 3,9,11|Masthuggstorget|Järntorget
 
 10|Dr. Sydows gata|Dr. Fries gata
-10|Dr. Fries gata|Chalmers
+10|Dr. Fries gata|Wavrinskys plats
 
 1,7|Opaltorget|Smaragdgatan
 1,7|Smaragdgatan|Briljantgatan
@@ -330,6 +330,7 @@ Kålltorp|Torp:weight:3
 1,2,6,9,11|Grönsakstorget|Domkyrkan
 1,2,6,9,11|Domkyrkan|Brunnsparken
 2|Vasaplatsen|Grönsakstorget
+3,7,10|Vasaplatsen|Valand
 
 4,5|Korsvägen|Berzeliigatan
 4,5|Berzeliigatan|Valand
