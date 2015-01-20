@@ -3,6 +3,7 @@ use 5.14.0;
 package Map::Metro::Plugin::Map::Gothenburg;
 
 # VERSION
+# ABSTRACT: Map::Metro map for Gothenburg
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
@@ -23,10 +24,6 @@ __END__
 
 =encoding utf-8
 
-=head1 NAME
-
-Map::Metro::Plugin::Map::Gothenburg - Map::Metro map for Gothenburg
-
 =head1 SYNOPSIS
 
     use Map::Metro;
@@ -38,25 +35,15 @@ See L<Map::Metro> for usage information.
 
 =head1 Status
 
-As of 2015-jan-03 it contains all twelve regular tram lines, see L<wikipedia|https://en.wikipedia.org/wiki/Gothenburg_tram_network>.
+This map contains:
+
+=for :list
+* All twelve regular tram lines [L<wikipedia|https://en.wikipedia.org/wiki/Gothenburg_tram_network>]
 
 =begin HTML
 
 <p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Gothenburg/master/static/images/gothenburg.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Gothenburg/master/static/images/gothenburg.png" style="max-width: 600px" /></a></p>
 
 =end HTML
-
-=head1 AUTHOR
-
-Erik Carlsson E<lt>info@code301.comE<gt>
-
-=head1 COPYRIGHT
-
-Copyright 2015 - Erik Carlsson
-
-=head1 LICENSE
-
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
 
 =cut

@@ -2,6 +2,10 @@
 
 Map::Metro::Plugin::Map::Gothenburg - Map::Metro map for Gothenburg
 
+# VERSION
+
+Version 0.1001, released 2015-01-20.
+
 # SYNOPSIS
 
     use Map::Metro;
@@ -13,17 +17,25 @@ See [Map::Metro](https://metacpan.org/pod/Map::Metro) for usage information.
 
 # Status
 
-As of 2015-jan-03 it contains all twelve regular tram lines, see [wikipedia](https://en.wikipedia.org/wiki/Gothenburg_tram_network).
+This map contains:
+
+- All twelve regular tram lines \[[wikipedia](https://en.wikipedia.org/wiki/Gothenburg_tram_network)\]
+
+# SOURCE
+
+[https://github.com/Csson/p5-Map-Metro-Gothenburg](https://github.com/Csson/p5-Map-Metro-Gothenburg)
+
+# HOMEPAGE
+
+[https://metacpan.org/release/Map-Metro-Plugin-Map-Gothenburg](https://metacpan.org/release/Map-Metro-Plugin-Map-Gothenburg)
 
 # AUTHOR
 
 Erik Carlsson <info@code301.com>
 
-# COPYRIGHT
+# COPYRIGHT AND LICENSE
 
-Copyright 2015 - Erik Carlsson
+This software is copyright (c) 2015 by Erik Carlsson <info@code301.com>.
 
-# LICENSE
-
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.

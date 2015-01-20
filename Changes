@@ -6,10 +6,14 @@ Revision history for Map-Metro-Plugin-Map-Gothenburg
  [Bug Fixes]
 
  [Documentation]
+ - Rebuilt with podweaver.
 
  [Enhancements]
 
  [Meta]
+ - Added github info to meta and pod.
+ - Bumped Map::Metro requirement (to 0.2206).
+ - Now uses @Author::CSSON dist zilla plugin bundle, expanded.
 
  [New Features]
 
