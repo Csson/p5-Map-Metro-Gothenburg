@@ -4,7 +4,7 @@ Map::Metro::Plugin::Map::Gothenburg - Map::Metro map for Gothenburg
 
 # VERSION
 
-Version 0.1001, released 2015-01-20.
+Version 0.1002, released 2015-01-21.
 
 # SYNOPSIS
 
