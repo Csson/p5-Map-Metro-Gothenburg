@@ -4,18 +4,25 @@ Revision history for Map-Metro-Plugin-Map-Gothenburg
  [API Changes]
 
  [Bug Fixes]
- - Added missing stations on line 13 (Korsvägen->Sahlgrenska)
 
  [Documentation]
+ - Improved synopsis.
+ - Linked to ::Lines documentation.
 
  [Enhancements]
 
  [Meta]
- - Changed Lines.pm to Lines.pod (fixes $VERSION problem).
 
  [New Features]
 
  [Revision]
+
+0.1002 2015-01-21T14:31:41Z CET
+ [Bug Fixes]
+ - Added missing stations on line 13 (Korsvägen->Sahlgrenska)
+
+ [Meta]
+ - Changed Lines.pm to Lines.pod (fixes $VERSION problem).
 
 0.1001 2015-01-20T15:18:08Z CET
  [Documentation]

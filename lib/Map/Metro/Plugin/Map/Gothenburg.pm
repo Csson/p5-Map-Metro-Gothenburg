@@ -29,13 +29,17 @@ __END__
     use Map::Metro;
     my $graph = Map::Metro->new('Gothenburg')->parse;
 
+Or:
+
+	$ map-metro.pl route Gothenburg Saltholmen Torp
+
 =head1 DESCRIPTION
 
 See L<Map::Metro> for usage information.
 
 =head1 Status
 
-This map contains:
+This map L<contains|Map::Metro::Plugin::Map::Gothenburg::Lines>:
 
 =for :list
 * All twelve regular tram lines [L<wikipedia|https://en.wikipedia.org/wiki/Gothenburg_tram_network>]

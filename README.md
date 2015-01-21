@@ -4,12 +4,16 @@ Map::Metro::Plugin::Map::Gothenburg - Map::Metro map for Gothenburg
 
 # VERSION
 
-Version 0.1002, released 2015-01-21.
+Version 0.1003, released 2015-01-21.
 
 # SYNOPSIS
 
     use Map::Metro;
     my $graph = Map::Metro->new('Gothenburg')->parse;
+
+Or:
+
+        $ map-metro.pl route Gothenburg Saltholmen Torp
 
 # DESCRIPTION
 
@@ -17,7 +21,7 @@ See [Map::Metro](https://metacpan.org/pod/Map::Metro) for usage information.
 
 # Status
 
-This map contains:
+This map [contains](https://metacpan.org/pod/Map::Metro::Plugin::Map::Gothenburg::Lines):
 
 - All twelve regular tram lines \[[wikipedia](https://en.wikipedia.org/wiki/Gothenburg_tram_network)\]
 
