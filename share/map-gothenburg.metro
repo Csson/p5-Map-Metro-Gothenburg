@@ -316,9 +316,9 @@ Kålltorp|Torp|weight:3
 
 7,8|Botaniska Trädgården|Salhgrenska Huvudentré
 6|Linnéplatsen|Salhgrenska Huvudentré
-6,7,8|Salhgrenska Huvudentré|Medicinaregatan
-6,7,8|Medicinaregatan|Wavrinskys Plats
-6,7,8,10|Wavrinskys Plats|Chalmers
+6,7,8,13|Salhgrenska Huvudentré|Medicinaregatan
+6,7,8,13|Medicinaregatan|Wavrinskys Plats
+6,7,8,10,13|Wavrinskys Plats|Chalmers
 6,8,13|Chalmers|Korsvägen
 7,10|Chalmers|Kapellplatsen
 7,10|Kapellplatsen|Vasaplatsen
