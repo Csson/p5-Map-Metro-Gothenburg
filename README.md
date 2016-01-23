@@ -4,7 +4,7 @@ Map::Metro::Plugin::Map::Gothenburg - Map::Metro map for Gothenburg
 
 # VERSION
 
-Version 0.1003, released 2015-01-21.
+Version 0.1004, released 2015-01-23.
 
 # SYNOPSIS
 
@@ -27,11 +27,11 @@ This map [contains](https://metacpan.org/pod/Map::Metro::Plugin::Map::Gothenburg
 
 # SOURCE
 
-[https://github.com/Csson/p5-Map-Metro-Gothenburg](https://github.com/Csson/p5-Map-Metro-Gothenburg)
+Source repository is at [https://github.com/Csson/p5-Map-Metro-Gothenburg](https://github.com/Csson/p5-Map-Metro-Gothenburg).
 
 # HOMEPAGE
 
-[https://metacpan.org/release/Map-Metro-Plugin-Map-Gothenburg](https://metacpan.org/release/Map-Metro-Plugin-Map-Gothenburg)
+Please visit the project's homepage at [https://metacpan.org/release/Map-Metro-Plugin-Map-Gothenburg](https://metacpan.org/release/Map-Metro-Plugin-Map-Gothenburg).
 
 # AUTHOR
 

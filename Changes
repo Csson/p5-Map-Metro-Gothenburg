@@ -6,8 +6,6 @@ Revision history for Map-Metro-Plugin-Map-Gothenburg
  [Bug Fixes]
 
  [Documentation]
- - Improved synopsis.
- - Linked to ::Lines documentation.
 
  [Enhancements]
 
@@ -16,6 +14,11 @@ Revision history for Map-Metro-Plugin-Map-Gothenburg
  [New Features]
 
  [Revision]
+
+0.1003 2015-01-21T16:27:28Z CET
+ [Documentation]
+ - Improved synopsis.
+ - Linked to ::Lines documentation.
 
 0.1002 2015-01-21T14:31:41Z CET
  [Bug Fixes]
