@@ -9,14 +9,21 @@ Revision history for Map-Metro-Plugin-Map-Gothenburg
 
  [Enhancements]
 
- [Other Changes]
-  - Rebuilt using current Dist::Iller::Config::Author::CSSON(::MapMetro).
-
  [New Features]
 
- [Line Changes]
-  - Stations 'Torp' and 'Kålltorp' have both changed name to 'Virginsgatan'.
+ [Other Changes]
 
+ [Requirements]
+
+ [Testing]
+
+0.1004 2016-01-23T23:11:02Z UTC
+ [Line Changes]
+ - Stations 'Torp' and 'Kålltorp' have both changed name to
+   'Virginsgatan'.
+
+ [Other Changes]
+ - Rebuilt using current Dist::Iller::Config::Author::CSSON(::MapMetro).
 
 0.1003 2015-01-21T16:27:28Z CET
  [Documentation]
