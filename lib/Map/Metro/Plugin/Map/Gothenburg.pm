@@ -1,4 +1,5 @@
 use 5.14.0;
+use warnings;
 
 package Map::Metro::Plugin::Map::Gothenburg;
 
@@ -6,6 +7,7 @@ package Map::Metro::Plugin::Map::Gothenburg;
 # ABSTRACT: Map::Metro map for Gothenburg
 
 use Moose;
+use namespace::autoclean;
 with 'Map::Metro::Plugin::Map';
 
 has '+mapfile' => (
@@ -17,6 +19,8 @@ sub map_version {
 sub map_package {
     return __PACKAGE__;
 }
+
+__PACKAGE__->meta->make_immutable;
 
 1;
 
