@@ -25,7 +25,8 @@ my %WriteMakefileArgs = (
   "NAME" => "Map::Metro::Plugin::Map::Gothenburg",
   "PREREQ_PM" => {
     "Map::Metro" => "0.2300",
-    "Moose" => "2.0000"
+    "Moose" => "2.1400",
+    "namespace::autoclean" => "0.24"
   },
   "TEST_REQUIRES" => {
     "ExtUtils::MakeMaker" => 0,
@@ -47,8 +48,9 @@ my %FallbackPrereqs = (
   "IO::Handle" => 0,
   "IPC::Open3" => 0,
   "Map::Metro" => "0.2300",
-  "Moose" => "2.0000",
-  "Test::More" => "0.96"
+  "Moose" => "2.1400",
+  "Test::More" => "0.96",
+  "namespace::autoclean" => "0.24"
 );
 
 
